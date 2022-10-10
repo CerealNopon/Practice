@@ -5,4 +5,5 @@
         "lib/**/*.jar"
     ]
     "editor.inlayHints.enabled": "off"
+    "git.autofetch": false
 }
